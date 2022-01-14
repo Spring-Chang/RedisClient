@@ -4,3 +4,7 @@
 /.settings/
 /.project
 /conf.properties
+
+### IntelliJ IDEA ###
+.idea
+*.iml
